@@ -1,0 +1,10 @@
+[package]
+name = "mt-server-cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+threadpool = "1.8"
+num_cpus = "1.13"
+chrono = "0.4"
+ctrlc = "3.2"
